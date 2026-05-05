@@ -70,9 +70,7 @@ This guide walks you through creating and hosting a static website on Azure Stor
 2. Open the Primary endpoint URL
 3. Your website should now be live!
 
-
-
-
+<img width="1630" height="960" alt="Web Page Hosted on Azure Blob Storage" src="https://github.com/user-attachments/assets/541ee2c1-edd1-43d6-b3af-f8047c9a2f82" />
 
 
 
